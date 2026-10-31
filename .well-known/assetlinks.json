@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aoproductions.aobudget",
+      "sha256_cert_fingerprints": [
+        "A0:47:11:62:EC:91:E6:7A:55:8F:5A:5A:42:B4:38:F2:39:39:E2:97:A5:61:20:8F:3A:03:0F:54:BC:CB:B6:28",
+        "CC:C7:BC:CB:D1:73:D9:5D:21:00:E3:B5:CE:20:25:C3:97:23:D0:FD:9C:0A:CF:20:EA:B8:AB:82:61:DB:5E:BE"
+      ]
+    }
+  }
+]
